@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/composition-api": "^0.32.0",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
     "nuxt-webfontloader": "^1.1.0",
@@ -33,12 +34,15 @@
     "@nuxtjs/tailwindcss": "^5.0.2",
     "@nuxtjs/vuetify": "^1.12.3",
     "@types/node": "^17.0.12",
+    "autoprefixer": "^10.4.4",
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0",
     "font-awesome": "^4.7.0",
+    "postcss": "^8.4.12",
     "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.23",
     "vue-cli-plugin-vuetify": "~2.4.5"
   }
 }
